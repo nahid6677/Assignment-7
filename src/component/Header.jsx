@@ -7,17 +7,17 @@ const Header = ({ handleFreeCredite, accountBlance }) => {
         <div className="">
             <div className="">
                 <nav className="flex justify-between items-center">
-                    <img className='w-16 h-16 rounded-full' src="https://media.gettyimages.com/id/499741785/vector/soccer-champion-background.jpg?s=2048x2048&w=gi&k=20&c=0i4abFGCbYUw0M_ku56MCQF-i27-b3LG3Hl4jCfqQgY=" alt="" />
-                    <div className="flex justify-between items-center gap-5">
-                        <ul className="flex justify-between items-center gap-3">
+                    <img className='sm:w-16 w-10 h-10 sm:h-16 rounded-full' src="https://media.gettyimages.com/id/499741785/vector/soccer-champion-background.jpg?s=2048x2048&w=gi&k=20&c=0i4abFGCbYUw0M_ku56MCQF-i27-b3LG3Hl4jCfqQgY=" alt="" />
+                    <div className="flex justify-between items-center gap-2 sm:gap-5">
+                        <ul className="flex justify-between items-center gap-2 sm:gap-3">
                             <li ><a href="#">Home</a></li>
                             <li ><a href="#">Fixture</a></li>
                             <li ><a href="#">Teams</a></li>
                             <li ><a href="#">Schedules</a></li>
                         </ul>
-                        <div className="flex justify-between items-center sm:gap-2 border p-2 rounded-lg">
-                            <h2 className='font-bold'><span id='my_account_blance'>{accountBlance}</span> Coin</h2>
-                            <img src="https://i.ibb.co.com/LggF918/dollar-1.png" alt="" />
+                        <div className="sm:flex justify-between items-center sm:gap-2 border p-2 rounded-lg">
+                            <h2 className='font-bold text-center'><span id='my_account_blance'>{accountBlance}</span> Coin</h2>
+                            <img className='mx-auto ' src="https://i.ibb.co.com/LggF918/dollar-1.png" alt="" />
                         </div>
                     </div>
                 </nav>

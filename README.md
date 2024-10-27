@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1.Project name: My Favourite Team.
+2.Description: This site build with ReactJS;
+3.Technologies: es6 and reactJS
+4. 3 key features:
+ Player Selection: Users can select up to 6 players with validation against their account balance, providing instant feedback through toast notifications.
 
-Currently, two official plugins are available:
+Dynamic Data Loading: Player data is fetched from a JSON file upon initialization, ensuring the app displays up-to-date information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User Feedback with Toast Notifications: Utilizes react-toastify for user notifications, appearing at the top center of the screen to inform users of actions and errors. 
+
+
+
