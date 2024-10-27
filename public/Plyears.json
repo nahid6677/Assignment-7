@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "cca3": "Xa1",
+        "name": "Lionel Messi",
+        "price": 1200000,
+        "player_country_name": "Argentina",
+        "img": "https://www.investopedia.com/thmb/RR2bD_o8u7t4a9G8JVEv99PH9dM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1245748917-99e3329a7b8147e8ab648806220ce153.jpg"
+    },
+    {
+        "id": 2,
+        "cca3": "Xa2",
+        "name": "Cristiano Ronaldo",
+        "price": 120000,
+        "player_country_name": "Portugal",
+        "img": "https://media.gettyimages.com/id/1440581550/photo/aston-villa-v-manchester-united-premier-league.jpg?s=2048x2048&w=gi&k=20&c=kkxt3hsdfy0gwukFNBFLr8x2fJsqk_2z8v1nJpMeMlE="
+    },
+    {
+        "id": 3,
+        "cca3": "Xa3",
+        "name": "Neymar Jr.",
+        "price": 150000,
+        "player_country_name": "Brazil",
+        "img": "https://media.gettyimages.com/id/1448879567/photo/round-of-16-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=WS0bGhwv97OtXfQ-TJz0nbOffZoezuy1aPBHneqhbRM="
+    },
+    {
+        "id": 4,
+        "cca3": "Xa4",
+        "name": "Kylian Mbappé",
+        "price": 1900000,
+        "player_country_name": "France",
+        "img": "https://media.gettyimages.com/id/2148885257/photo/fc-barcelona-v-paris-saint-germain-quarter-final-second-leg-uefa-champions-league-2023-24.jpg?s=2048x2048&w=gi&k=20&c=EtxJkCXwzVhk9P-tBAQ0pfxkIH_vfP21Ue53nNsNUxE="
+    },
+    {
+        "id": 5,
+        "cca3": "Xa5",
+        "name": "Kevin De Bruyne",
+        "price": 90000,
+        "player_country_name": "Belgium",
+        "img": "https://media.gettyimages.com/id/1423724077/photo/manchester-city-v-borussia-dortmund-group-g-uefa-champions-league.jpg?s=2048x2048&w=gi&k=20&c=7VebxUJN2BRrQIJA9dLZQjhl2nAsZvPdgdUJgpATB9E="
+    },
+    {
+        "id": 6,
+        "cca3": "Xa6",
+        "name": "Virgil van Dijk",
+        "price": 80000,
+        "player_country_name": "Netherlands",
+        "img": "https://media.gettyimages.com/id/1587631067/photo/liverpool-fc-v-bayern-muenchen-pre-season-friendly.jpg?s=2048x2048&w=gi&k=20&c=qkmQRTm-ltwoc_q-q3op6WOKipMTY8ASL8GUxTfwm88="
+    },
+    {
+        "id": 7,
+        "cca3": "Xa7",
+        "name": "Mohamed Salah",
+        "price": 85000,
+        "player_country_name": "Egypt",
+        "img": "https://media.gettyimages.com/id/1490594722/photo/leicester-city-v-liverpool-fc-premier-league.jpg?s=2048x2048&w=gi&k=20&c=GDFT1X0U3gQT_D1hc4pDMXWESm_LtlHtnSITe1NVJ0c="
+    },
+    {
+        "id": 8,
+        "cca3": "Xa8",
+        "name": "Robert Lewandowski",
+        "price": 175000,
+        "player_country_name": "Poland",
+        "img": "https://media.gettyimages.com/id/1456048506/photo/real-betis-v-fc-barcelona-super-copa-de-espa%C3%B1a.jpg?s=2048x2048&w=gi&k=20&c=g8ozya6LGiryP2zw9LzxCBjFwNSZVs5Hk3Dr89dZptw="
+    },
+    {
+        "id": 9,
+        "cca3": "Xa9",
+        "name": "Sadio Mané",
+        "price": 170000,
+        "player_country_name": "Senegal",
+        "img": "https://media.gettyimages.com/id/1243590649/photo/iran-v-senegal-international-friendly.jpg?s=2048x2048&w=gi&k=20&c=7wKKxnlsztgw4GF_SpkfG50lAmb8rh34zdgP_ZBkWpc="
+    },
+    {
+        "id": 10,
+        "cca3": "Xa10",
+        "name": "Eden Hazard",
+        "price": 106000,
+        "player_country_name": "Belgium",
+        "img": "https://media.gettyimages.com/id/1245301261/photo/group-f-fifa-world-cup-qatar-2022.jpg?s=2048x2048&w=gi&k=20&c=U5Jt0cD1jLtI3tHllTSJBsdY9SEV2_cX2xcgMGduKas="
+    },
+    {
+        "id": 11,
+        "cca3": "Xa11",
+        "name": "Harry Kane",
+        "price": 110000,
+        "player_country_name": "England",
+        "img": "https://media.gettyimages.com/id/1774896643/photo/borussia-dortmund-v-fc-bayern-m%C3%BCnchen-bundesliga.jpg?s=2048x2048&w=gi&k=20&c=rGOLY0m6w1dM1SCKnovvuHkdsXAOT7TiBq7Az3y3YrI="
+    },
+    {
+        "id": 12,
+        "cca3": "Xa12",
+        "name": "Sergio Ramos",
+        "price": 105000,
+        "player_country_name": "Spain",
+        "img": "https://media.gettyimages.com/id/1496904867/photo/joaquin-sanchez-tribute-match.jpg?s=2048x2048&w=gi&k=20&c=-Aw5-vvLjlV7dDLW7KOBv7IM4SUAF-yvYMm372ig5KI="
+    }
+]

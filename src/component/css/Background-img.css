@@ -1,0 +1,13 @@
+.banner {
+    background-image: url('https://i.ibb.co.com/2KCvpxX/bg-shadow.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: blur(1px); */
+    background: rgb(40, 40, 75);
+    background: linear-gradient(0deg, rgba(40, 40, 75, 1) 10%, rgba(39, 39, 74, 1) 22%, rgba(37, 36, 72, 1) 48%, rgba(14, 11, 71, 1) 100%, rgba(0, 212, 255, 1) 100%, rgba(0, 212, 255, 1) 0%);
+}
+
+.BTN {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
