@@ -67,10 +67,6 @@ function App() {
     document.getElementById('availSelect').innerText = `Available Plyers `
     document.getElementById('maiN').classList.remove('hidden')
     document.getElementById('abailablE').classList.add('hidden')
-
-    document.getElementById('AvailableBTN').classList.add('bg-yellow-300');
-    document.getElementById('SelectedBId').classList.remove('bg-yellow-300');
-
     document.getElementById('availableSelect').classList.add('hidden')
     handleBTN()
   }
