@@ -10,7 +10,7 @@ const Selected = ({ plyearr, removePlayre }) => {
                         <p className="text-base font-bold">{plyearr.price}</p>
                     </div>
                 </div>
-                <button onClick={() => removePlayre(plyearr)} className='mr-2'><img src="https://i.ibb.co.com/P6zfpD8/Vector-1.png" alt="" /></button>
+                <button onClick={() => removePlayre(plyearr)} className='mr-2 p-2 bg-slate-100 rounded-full'>.<img src="https://i.ibb.co.com/P6zfpD8/Vector-1.png" alt="" /></button>
             </div>
         </div>
     );
